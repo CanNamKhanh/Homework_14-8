@@ -1,0 +1,24 @@
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+header h1 {
+    text-transform: uppercase;
+    font-size: 2.4rem;
+    text-align: center;
+    color: #C13728;
+}
+
+main p::first-letter {
+    color: #C13728;
+    font-size: xx-large;
+}
+
+main p {
+    margin-top: 15px;
+    font-size: 1.38rem;
+}

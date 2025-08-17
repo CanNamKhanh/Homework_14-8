@@ -1,0 +1,31 @@
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+thead {
+    background: #323232;
+    color: white;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.menu {
+    margin: auto;
+}
+
+.menu tbody .item:nth-child(odd) {
+    background: #e1dede;
+}
+
+.menu tbody .item:hover {
+    background: #FFF9E8;
+}
+
+main .menu {
+    width: 320px;
+}
